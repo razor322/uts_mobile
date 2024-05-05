@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
+database API on folder lib/database
+
+copy uts_mobile2 to htdocs and run xampp
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
